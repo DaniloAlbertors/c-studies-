@@ -20,5 +20,4 @@ int main(){
 
     printf("The average grade is: %.2f", average);
     return 0;
-
 }
