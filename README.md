@@ -10,7 +10,7 @@ In this repository, you will find simple programs that represent the foundations
 ## 📂 What you will find here
 
 * Practical programming logic exercises and mathematical calculations.
-* Input and output operations (`printf`, `scanf`).
+* Input and output operations (`printf`, `scanf`, `switch`, `case`, `if`, `else`).
 * Variable manipulations, type casting, and data types.
 * Conversions and utility scripts (time, fuel, unit conversions).
 
